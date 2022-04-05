@@ -9,7 +9,7 @@ designed system is conducted in the MATLAB software.
 <!-- Contents -->
 ## Contents
 This project is composed of two files:
-* Technical Report.pdf 
+* Technical_Report.pdf 
   * A detailed analysis and description of the designed system in MATLAB
 * Digital_Communications_Simulation_Christian_Kamps.m
   * The MATLAB file containing the design digital communciation system
